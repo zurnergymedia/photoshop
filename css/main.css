@@ -21,6 +21,7 @@
 .text-white-3{color:#fff; font-size: 4em; text-align:left !important;}
 .text-white-4{color:#2dc2ec; font-size: 3em !important; font-weight: 500; text-align:left !important;}
 .text-white-5{color:#fff; font-size: 4em !important; font-weight: 500; text-align:left !important;}
+.text-white-30{color:#fff; font-weight:300; font-size: 1.5em; text-align:left !important;}
 ul.list-me {
     list-style-type: circle;
     padding-top: 5%;
